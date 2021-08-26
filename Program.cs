@@ -8,7 +8,6 @@ namespace ExamPOOAccarainBasile2021
         {
             Console.WriteLine("Hello World!");
             Console.WriteLine("Hello World!");
-            Console.WriteLine("Hello World!");
         }
     }
 }
